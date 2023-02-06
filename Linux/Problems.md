@@ -67,4 +67,3 @@ su
   - l：显示详细信息，包括大小，属组，创建时间
 
 ![image-20230206121658063](C:\Users\mark\AppData\Roaming\Typora\typora-user-images\image-20230206121658063.png)
-
