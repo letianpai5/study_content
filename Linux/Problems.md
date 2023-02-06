@@ -65,5 +65,5 @@ su
 - `ls -al`： list 的意思
   - a：当前目录下的所有文件，包括隐藏文件
   - l：显示详细信息，包括大小，属组，创建时间
+![image](https://user-images.githubusercontent.com/64481843/216895477-99415b14-efdc-4bec-9a9b-66206b7829d9.png)
 
-![image-20230206121658063](C:\Users\mark\AppData\Roaming\Typora\typora-user-images\image-20230206121658063.png)
