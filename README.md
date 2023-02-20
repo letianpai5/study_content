@@ -8,6 +8,7 @@
 
 ## [Python](https://github.com/letianpai5/study_content/tree/main/Python_study)
 
+自动化
 
 [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 ***
